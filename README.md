@@ -1,23 +1,14 @@
----
-name: Xamarin.Forms - SpinPaint
-description: "SpinPaint is a Xamarin.Forms application that runs on iOS, Android, and Universal Windows Platform devices. #skiasharp"
-page_type: sample
-languages:
-- csharp
-products:
-- xamarin
-urlFragment: skiasharpforms-spinpaint
----
 # SpinPaint
 
-SpinPaint is a Xamarin.Forms application that runs on iOS, Android, and Universal Windows Platform devices.
+SpinPaint es una aplicación Xamarin.Forms que permite a los usuarios dibujar y pintar en un lienzo utilizando sus dedos. Este archivo README.md proporciona información sobre los cambios recientes realizados en la aplicación.
 
-The program simulates a revolving disk that you can paint on by touching and moving your fingers.
-SpinPaint responds to touch by painting a line under your finger, but it also duplicates that line in three mirror images in the other three quadrants of the disk.
-The current color of the line is indicated by the color of the title of the program above the disk. At the bottom are buttons to clear the image to start over, or to save the image as a bitmap in the device's shared photo library.
+# Cambios
 
-SpinPaint demonstrates the use of SkiaSharp in a Xamarin.Forms application. For more information about SkiaSharp see [Using SkiaSharp in Xamarin.Forms](https://docs.microsoft.com/xamarin/xamarin-forms/user-interface/graphics/skiasharp/). The program also uses a touch-tracking effect discussed in the article [Invoking Events from Effects](https://docs.microsoft.com/xamarin/xamarin-forms/app-fundamentals/effects/touch-tracking).
+## Modificación del Diseño de los Botones
+En el archivo MainPage.xaml, el diseño de los botones ha sido modificado para incluir dos botones adicionales que permiten ajustar el tamaño del puntero. Los botones "Clear" permanecen en la primera fila, mientras que se han agregado los botones "Aumentar Tamaño" y "Disminuir Tamaño" en la segunda fila. Este cambio mejora la organización de los botones para una interfaz de usuario más intuitiva.
 
-SpinPaint uses a .NET Standard Library for the shared code. For a version that uses a Shared Project, see [SpinPaintShared](https://developer.xamarin.com/samples/xamarin-forms/SkiaSharpForms/SpinPaintShared/).
+## Mejora de la Alineación de los Botones
+Para garantizar una alineación adecuada de todos los botones, la propiedad HorizontalOptions para el StackLayout que contiene los botones "Aumentar Tamaño" y "Disminuir Tamaño" se ha establecido en "CenterAndExpand". Este ajuste asegura que los cuatro botones estén alineados horizontalmente y centrados dentro del diseño.
 
-![SpinPaint application screenshot](Screenshots/Image0.png "SpinPaint application screenshot")
+
+![SpinPaint application screenshot](Screenshots/mas_menos.png "SpinPaint application screenshot")
