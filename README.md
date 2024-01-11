@@ -14,7 +14,7 @@ Para garantizar una alineación adecuada de todos los botones, la propiedad Hori
 Se ha añadido la capacidad de ajustar el tamaño del puntero en la aplicación. Los botones "Aumentar Tamaño" y "Disminuir Tamaño" permiten a los usuarios aumentar o disminuir el grosor del puntero, respectivamente. Este cambio mejora la experiencia de dibujo al proporcionar opciones para personalizar el trazo según las preferencias del usuario.
 
 ## Integrantes
-Roberto Chacón, Kevin Moreno
+Roberto Chacón
 
 ## Imagen
 ![SpinPaint application screenshot](Screenshots/mas_menos.png "SpinPaint application screenshot")
