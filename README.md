@@ -13,5 +13,5 @@ Para garantizar una alineación adecuada de todos los botones, la propiedad Hori
 ## Integrantes
 Roberto Chacón, Kevin Moreno
 
-
+## Imagen
 ![SpinPaint application screenshot](Screenshots/mas_menos.png "SpinPaint application screenshot")
