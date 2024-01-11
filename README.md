@@ -10,5 +10,8 @@ En el archivo MainPage.xaml, el diseño de los botones ha sido modificado para i
 ## Mejora de la Alineación de los Botones
 Para garantizar una alineación adecuada de todos los botones, la propiedad HorizontalOptions para el StackLayout que contiene los botones "Aumentar Tamaño" y "Disminuir Tamaño" se ha establecido en "CenterAndExpand". Este ajuste asegura que los cuatro botones estén alineados horizontalmente y centrados dentro del diseño.
 
+## Integrantes
+Roberto Chacón, Kevin Moreno
+
 
 ![SpinPaint application screenshot](Screenshots/mas_menos.png "SpinPaint application screenshot")
