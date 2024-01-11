@@ -1,0 +1,13 @@
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.deps.json
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.dll
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\bin\Debug\netstandard2.0\SpinPaint.pdb
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.csproj.AssemblyReference.cache
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.AssemblyInfoInputs.cache
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.AssemblyInfo.cs
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.csproj.CoreCompileInputs.cache
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.dll
+C:\Users\User\ProyectosMovil\visual studio\SkiaSharpForms\SpinPaint\SpinPaint\SpinPaint\obj\Debug\netstandard2.0\SpinPaint.pdb
